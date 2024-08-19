@@ -1,0 +1,11 @@
+{
+    "ageDistribution": [
+      { "ageGroup": "18-24", "numberOfCustomers": 150 },
+      { "ageGroup": "25-34", "numberOfCustomers": 250 },
+      { "ageGroup": "35-44", "numberOfCustomers": 180 },
+      { "ageGroup": "45-54", "numberOfCustomers": 120 },
+      { "ageGroup": "55-64", "numberOfCustomers": 80 },
+      { "ageGroup": "65+", "numberOfCustomers": 40 }
+    ]
+  }
+  

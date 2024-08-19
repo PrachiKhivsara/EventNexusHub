@@ -1,0 +1,16 @@
+{
+    "monthlyBookings": [
+      { "month": "January", "bookings": 25 },
+      { "month": "February", "bookings": 30 },
+      { "month": "March", "bookings": 35 },
+      { "month": "April", "bookings": 40 },
+      { "month": "May", "bookings": 45 },
+      { "month": "June", "bookings": 50 },
+      { "month": "July", "bookings": 55 },
+      { "month": "August", "bookings": 60 },
+      { "month": "September", "bookings": 65 },
+      { "month": "October", "bookings": 70 },
+      { "month": "November", "bookings": 75 },
+      { "month": "December", "bookings": 80 }
+    ]
+  }

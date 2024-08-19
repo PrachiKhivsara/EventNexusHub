@@ -1,0 +1,9 @@
+{
+    "annualBookings": [
+      { "year": 2020, "bookings": 1800 },
+      { "year": 2021, "bookings": 2100 },
+      { "year": 2022, "bookings": 2400 },
+      { "year": 2023, "bookings": 2600 },
+      { "year": 2024, "bookings": 2900 }
+    ]
+  }

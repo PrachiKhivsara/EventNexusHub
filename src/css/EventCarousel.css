@@ -1,0 +1,6 @@
+.carousel {
+  display: flex;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  transition: transform 1s ease-in-out;
+}
